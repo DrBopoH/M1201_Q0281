@@ -1,0 +1,20 @@
+[00:12:13] [Server thread/INFO]: Stopping the server
+[00:12:13] [Server thread/INFO]: Stopping train listener...
+[00:12:13] [Server thread/INFO]: Stopping Advanced Display Data Manager...
+[00:12:13] [Server thread/INFO]: All events have been closed.
+[00:12:13] [Server thread/INFO]: Stopping server
+[00:12:13] [Server thread/INFO]: Saving players
+[00:12:13] [Server thread/INFO]: Saving worlds
+[00:12:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TONG]'/minecraft:overworld
+[00:12:14] [Advanced Display Data Manager/INFO]: Advanced Display Data Manager has been stopped.
+[00:12:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TONG]'/minecraft:the_end
+[00:12:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TONG]'/minecraft:the_nether
+[00:12:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[TONG]'/create_dd:ponder
+[00:12:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (TONG): All chunks are saved
+[00:12:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:12:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:12:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (ponder): All chunks are saved
+[00:12:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:12:14] [Server thread/INFO]: Stopping DragonLib Network Manager (Server) worker thread...
+[00:12:14] [DragonLib Network Manager (Server)/INFO]: DragonLib Network Manager (Server) worker thread has been stopped!
+[00:12:14] [CRN Train Listener/INFO]: Train listener has been stopped.
