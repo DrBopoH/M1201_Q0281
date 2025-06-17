@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1pSW6-4vhC0eSHazJ6cV1AWtq-zOVJznB/view?usp=shari
 CoreMinimal:
 - https://drive.google.com/file/d/1jsYpz6qjRVMARaDjGrR_h8WYNFA7PMPl/view?usp=drive_link
 CoreFull:
-- https://drive.google.com/file/d/1gQXXm2CV0UQWsOQoQLshCKI4Qqz8gz4e/view?usp=sharing
+- https://drive.google.com/file/d/1C7sqkVNXrm7BjE-gsMe9e43QcfCcBqzF/view?usp=sharing
  
 Visual:
 - https://drive.google.com/file/d/1qas3kbbgEUQ1bXeg3xD23P9DTaqM4pwr/view?usp=drive_link
