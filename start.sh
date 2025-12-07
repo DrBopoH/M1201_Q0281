@@ -1,2 +1,3 @@
+#!/bin/sh
 java -Xms2G -Xmx6G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=50 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1HeapRegionSize=8M -XX:G1NewSizePercent=20 -XX:G1MaxNewSizePercent=40 -XX:G1ReservePercent=20 -XX:G1MixedGCCountTarget=6 -XX:InitiatingHeapOccupancyPercent=20 -XX:SurvivorRatio=20 -XX:MaxTenuringThreshold=3 -XX:+PerfDisableSharedMem -Dlog4j2.formatMsgNoLookups=true -jar quilt-server-launch.jar
-pause
+read -p "Press Enter to continue..."

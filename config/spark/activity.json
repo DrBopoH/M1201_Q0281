@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DrBopoH",
+      "uniqueId": "32e0c747-7622-3002-9f92-fb70e153b0f2"
+    },
+    "time": 1765107194919,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RfMvqBRva2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DrBopoH",
+      "uniqueId": "32e0c747-7622-3002-9f92-fb70e153b0f2"
+    },
+    "time": 1765106608010,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LD0G6NDKGd"
+    }
+  }
+]
