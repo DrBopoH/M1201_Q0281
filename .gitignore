@@ -1,4 +1,7 @@
+crash-reports/
+logs/
+
 .cache/
 EasyAuth/
 
-*.ini
+desktop.ini
